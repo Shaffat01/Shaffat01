@@ -15,7 +15,7 @@ I am a **Network Operation Center (NOC) Engineer** at **Walton Hi-Tech Industrie
 - ⚡ **Networking Expertise:** Static & Dynamic Routing, Mikrotik, Cisco Networking (CCNA, CCNP-ENCORE, MTCNA, MTCSE).
 - 💻 **Web Development:** Experienced in HTML5, CSS3, Bootstrap, and jQuery (Freelanced on Upwork).
 - 🎓 **Education:** B.Sc. in Electronics and Communication Engineering from **HSTU**.
-- 📫 **Reach me at:** [আপনার ইমেইল এখানে লিখুন]
+- 📫 **Reach me at:** shaffa3x@gmail.com
 
 ---
 
