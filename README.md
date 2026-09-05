@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working at **Walton Hi-Tech Industries PLC** as **NOC Engineer (Deputy Assistant Director)**  
+- 🔭 Currently working at **Walton Hi-Tech Industries PLC** as **Network Engineer (Deputy Assistant Director)**  
 - 🌱 Continuously exploring **Network Automation** & **Modern Web Frameworks**  
 - 💼 4+ years of experience as a **Freelance Web Developer** on Upwork  
 - 🎓 B.Sc in **Electronics and Communication Engineering (ECE)** from **HSTU**  
