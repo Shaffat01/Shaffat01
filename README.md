@@ -18,7 +18,7 @@
 - 🎓 B.Sc in **Electronics and Communication Engineering (ECE)** from **HSTU**  
 - 🎯 Passionate about **Secure Network Design** and **Scalable Web Apps**  
 - 📍 Based in **Gazipur, Bangladesh** 🇧🇩  
-- 📫 Reach me at: **shaffat01@gmail.com**  
+- 📫 Reach me at: **shaffat.ece18@gmail.com**  
 
 ---
 
